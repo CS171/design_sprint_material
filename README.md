@@ -4,6 +4,8 @@ This repository contains teaching materials and examples for conducting design s
 
 This is the supplemental material for the paper "Design Sprints for Online and On-Campus Visualization Courses".
 
+© 2020. This work is licensed under a CC BY-SA 4.0 license. 
+
 
 ## 1. Datasets:
 
