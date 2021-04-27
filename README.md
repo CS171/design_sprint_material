@@ -1,5 +1,5 @@
 # Example Design Sprint Materials
-This repository contains teaching materials and examples for conducting design sprints in visualization courses. It is a companion repository to the paper "Design Sprints for Online and On-Campus Visualization Courses" by J. Beyer and H. Pfister.
+This repository contains teaching materials and examples for conducting design sprints in visualization courses. It is a companion repository to the paper "Visualization Design Sprints -Teaching Online and On-Campus Datavis Courses" by J. Beyer, Y. Yang, and H. Pfister.
 
 © 2021. This work is licensed under a CC BY-SA 4.0 license.
 
